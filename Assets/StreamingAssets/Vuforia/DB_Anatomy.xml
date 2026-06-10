@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="brain" size="100.000000 115.000000" />
+    <ImageTarget name="lung" size="100.000000 115.000000" />
+    <ImageTarget name="heart" size="100.000000 115.000000" />
+  </Tracking>
+</QCARConfig>
